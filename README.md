@@ -1,3 +1,8 @@
+**In 2024, the Multi-Cluster App Dispatcher developers joined the [Kueue community](https://github.com/kubernetes-sigs/kueue).
+ We stopped working on MCAD as a standalone project and shifted to bringing the lessons learned
+ from MCAD to Kueue.  We developed a new [Kueue-compatabile version of AppWrapper](https://github.com/project-codeflare/appwrapper)
+ which makes MCAD's support for complex workloads and advanced fault tolerance available to users of Kueue.**
+
 <p align="center">
 <img src="./doc/images/mcad_logo.png" width="400" height="350">
 </p>
